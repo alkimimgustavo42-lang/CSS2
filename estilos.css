@@ -1,0 +1,25 @@
+*{
+height: 50%;
+}
+
+h1{
+    text-align: center;
+    color: rgb(0, 243, 243);
+    
+}
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(46, 24, 99);
+    text-align: center;
+}
+body{
+    /*background-image: linear-gradient(to bottom, rgb(125, 30, 235),rgb(184, 52, 52), pink);*/
+
+    background-color: bisque;
+    
+    background-image: url(muslim.png); 
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+}
